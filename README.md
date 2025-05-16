@@ -1,10 +1,9 @@
 ---
-
 # 🚀 Kubernetes On-Premise + CI/CD with Jenkins
 
 This project demonstrates how to build a robust CI/CD pipeline on a Kubernetes cluster using Jenkins (or GitLab CI), along with best practices for secrets management, RBAC, and GitOps.
 
----
+-------
 
 ## 📚 Skills You’ll Gain
 
