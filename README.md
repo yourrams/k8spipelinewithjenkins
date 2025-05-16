@@ -1,4 +1,5 @@
-🚀 1. Build a CI/CD Pipeline with Kubernetes
+**🚀 1. Build a CI/CD Pipeline with Kubernetes**
+
 Skills Gained: Jenkins/GitLab CI, Helm, Secrets Management, RBAC
 What to Do:
 	• Set up a Kubernetes cluster (minikube, kind, or cloud-based).
